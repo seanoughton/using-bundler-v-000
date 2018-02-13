@@ -8,6 +8,6 @@ gem "awesome_print", ""
 
 gem "pry", :group => "development"
 
-group :development do
-  gem "pry"
-end
+#group :development do
+  #gem "pry"
+#end
